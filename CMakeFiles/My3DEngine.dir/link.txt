@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\My3DEngine.dir/objects.a
+C:\TDM-GCC-32\bin\ar.exe qc CMakeFiles\My3DEngine.dir/objects.a @CMakeFiles\My3DEngine.dir\objects1.rsp
+C:\TDM-GCC-32\bin\c++.exe -Wl,--whole-archive CMakeFiles\My3DEngine.dir/objects.a -Wl,--no-whole-archive -o My3DEngine.exe -Wl,--out-implib,libMy3DEngine.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\My3DEngine.dir\linkLibs.rsp
