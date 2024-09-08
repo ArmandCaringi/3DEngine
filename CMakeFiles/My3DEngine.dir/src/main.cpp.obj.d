@@ -61,6 +61,15 @@ CMakeFiles/My3DEngine.dir/src/main.cpp.obj: \
  C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/Fl_Widget.H \
  C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/Fl_Bitmap.H \
  C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/Fl_Image.H \
- C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/Fl_Gl_Window.H \
- C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/Fl_Window.H \
- C:/TDM-GCC-32/include/GL/gl.h
+ C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/fl_draw.H \
+ C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/x.H \
+ C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/win32.H \
+ C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/Enumerations.H \
+ C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/Fl_Device.H \
+ C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/Fl_Plugin.H \
+ C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/Fl_Preferences.H \
+ C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/Fl_Image.H \
+ C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/Fl_Bitmap.H \
+ C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/Fl_Pixmap.H \
+ C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/x.H \
+ C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/Fl_RGB_Image.H
