@@ -33,12 +33,13 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows-windres.cmake"
   "C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/Windows.cmake"
   "C:/Program Files/CMake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake"
-  "C:/Program Files/CMake/share/cmake-3.30/Modules/SelectLibraryConfigurations.cmake"
   "CMakeFiles/3.30.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.30.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.30.3/CMakeRCCompiler.cmake"
   "CMakeFiles/3.30.3/CMakeSystem.cmake"
   "CMakeLists.txt"
+  "C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FLTK-Targets.cmake"
+  "C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FLTKConfig.cmake"
   )
 
 # The corresponding makefile is:

@@ -130,6 +130,9 @@ My3DEngine.exe: C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3
 My3DEngine.exe: C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/lib/libfltk_forms.a
 My3DEngine.exe: C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/lib/libfltk_gl.a
 My3DEngine.exe: C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/lib/libfltk.a
+My3DEngine.exe: C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/lib/libfltk_jpeg.a
+My3DEngine.exe: C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/lib/libfltk_png.a
+My3DEngine.exe: C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/lib/libfltk_z.a
 My3DEngine.exe: CMakeFiles/My3DEngine.dir/linkLibs.rsp
 My3DEngine.exe: CMakeFiles/My3DEngine.dir/objects1.rsp
 My3DEngine.exe: CMakeFiles/My3DEngine.dir/link.txt

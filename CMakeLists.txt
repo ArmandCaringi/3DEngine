@@ -6,8 +6,8 @@ set(CMAKE_CXX_STANDARD 17)
 
 # specify FLTK paths (adjust the paths as needed)
 set(FLTK_DIR "C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9")
-set(FLTK_INCLUDE_DIR "C:/Users/arman/OneDrive/Documents/sltk-1.3.9-source.tar/fltk-1.3.9/include")
-set(FLTK_LIBRARIES "C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/lib")
+set(FLTK_INCLUDE_DIR "C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9")
+set(FLTK_LIBRARIES "C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/lib/libfltk.a")
 set(FLTK_FLUID_EXECUTABLE "C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/bin/fluid.exe")
 
 find_package(FLTK REQUIRED)
