@@ -1,3 +1,3 @@
-int main() {
+int renderer() {
         return 0;
 }

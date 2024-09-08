@@ -3,7 +3,6 @@
 
 CMakeFiles/My3DEngine.dir/src/main.cpp.obj: src/main.cpp \
   C:/TDM-GCC-32/include/GL/gl.h \
-  C:/TDM-GCC-32/include/GL/glu.h \
   C:/TDM-GCC-32/include/_mingw.h \
   C:/TDM-GCC-32/include/alloca.h \
   C:/TDM-GCC-32/include/basetsd.h \
@@ -99,8 +98,10 @@ CMakeFiles/My3DEngine.dir/src/main.cpp.obj: src/main.cpp \
   C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/fl_types.h \
   C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/fl_utf8.h
 
+CMakeFiles/My3DEngine.dir/src/renderer.cpp.obj: src/renderer.cpp
 
-C:/TDM-GCC-32/include/GL/glu.h:
+CMakeFiles/My3DEngine.dir/src/shader.cpp.obj: src/shader.cpp
+
 
 src/main.cpp:
 
@@ -123,6 +124,8 @@ C:/TDM-GCC-32/include/sys/bsdtypes.h:
 C:/TDM-GCC-32/include/pshpack2.h:
 
 C:/TDM-GCC-32/include/alloca.h:
+
+C:/TDM-GCC-32/include/winnetwk.h:
 
 C:/TDM-GCC-32/include/rpc.h:
 
@@ -234,8 +237,6 @@ C:/TDM-GCC-32/include/windef.h:
 
 C:/TDM-GCC-32/include/wingdi.h:
 
-C:/TDM-GCC-32/include/winnetwk.h:
-
 C:/TDM-GCC-32/include/winnls.h:
 
 C:/TDM-GCC-32/include/winuser.h:
@@ -293,3 +294,7 @@ C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/abi-versio
 C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/fl_types.h:
 
 C:/Users/arman/OneDrive/Documents/fltk-1.3.9-source.tar/fltk-1.3.9/FL/fl_utf8.h:
+
+src/renderer.cpp:
+
+src/shader.cpp:

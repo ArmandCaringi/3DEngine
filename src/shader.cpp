@@ -1,3 +1,3 @@
-int main() {
+int shader() {
         return 0;
 }
